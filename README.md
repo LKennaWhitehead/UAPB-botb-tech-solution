@@ -21,6 +21,8 @@ With an increase in the amount of time allotted, features that can be seen withi
 *
 
 --SETUP INSTRUCTIONS--
+
+
 Web Application: 
 Step 1: Install Visual Studio Code
 
