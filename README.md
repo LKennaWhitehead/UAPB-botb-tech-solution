@@ -14,7 +14,7 @@ Functionality
 
 - Gamespaces, located in the wireframe is a live chat room designed for fans to connect during NFL games (CHAT ONLY, NO LIVE VIDEO WILL BE STREAMED)
 
-- Films, located in the wireframe is a video feed that utilizes machine learning in order to further personalize the user experience within NFL Social
+- Films, located in the wireframe is a video feed that utilizes machine learning to further personalize the user experience within NFL Social
 
 *
 With an increase in the amount of time allotted, features that can be seen within the technical solutions such as marketplace, friends, and game spaces will have an increased amount of functionality that will reflect the true image found in our vision for NFL Social
